@@ -19,7 +19,7 @@
 #IJK_OPENSSL_UPSTREAM=https://github.com/openssl/openssl
 IJK_OPENSSL_UPSTREAM=https://github.com/GCB2023/openssl.git
 IJK_OPENSSL_FORK=https://github.com/GCB2023/openssl.git
-IJK_OPENSSL_COMMIT=openssl-3.2.0
+IJK_OPENSSL_COMMIT=OpenSSL_1_1_1o
 IJK_OPENSSL_LOCAL_REPO=extra/openssl
 
 set -e
